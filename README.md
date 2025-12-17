@@ -4,7 +4,7 @@ A modern, interactive showcase website for McLaren sports cars featuring dynamic
 
 ## 🚀 Live Demo
 
-**[🔗 View Live Site]((https://mclaren1234.netlify.app/))**
+**[🔗 View Live Site](https://mclaren1234.netlify.app/)**
 ## ✨ Features
 
 - **Interactive Video Backgrounds** - Dynamic video backgrounds that showcase different McLaren models
